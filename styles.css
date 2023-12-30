@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Lucida calligraphy  ;
+  
+    /* Set the background image */
+    background-image: url('https://img.freepik.com/free-vector/rectangle-gold-frame-with-foliage-pattern-background-vector_53876-109053.jpg?w=740&t=st=1703925713~exp=1703926313~hmac=f77704e619f1f739e74174d5adb78e853fc59808a2a0debbcc0446bebbfb1122');
+
+    /* Center and cover the background image */
+    background-size: cover;
+    background-position: center;
+    color: #6298a5; /* Text color */
+  }
+  
+  .container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+  }
+  
+  .content {
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 2.8em;
+    margin-bottom: 20px;
+  }
+  
+  p {
+    font-size: 1.2em;
+    line-height: 1.2;
+  }
+  
+  
+
+
+
+  
